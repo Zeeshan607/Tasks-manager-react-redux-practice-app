@@ -1,0 +1,15 @@
+.login-col{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.form-card{
+    width:500px;
+    padding:20px;
+}
+.login-icon{
+    max-width: 100px;
+    aspect-ratio: 4/4;
+}
